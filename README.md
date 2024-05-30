@@ -8,7 +8,7 @@ Since the 3rd Edition of the book was quite old, some of the code written in the
 
 ## Images
 
-![Menu](Images/New-Crime-Landscape.jpg)
+![Menu](Images/Landscape.jpg)
 ![Portrait Menu and New Crime](Images/Portrait.png)
 
 ## Future Improvements
