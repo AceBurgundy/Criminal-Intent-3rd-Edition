@@ -4,8 +4,6 @@
 
 This project was developed as part of our **3rd Year Software Engineering coursework**, and it serves as our **introduction to mobile application development** using Android and Java. It closely follows the *Criminal Intent* example from the Big Nerd Ranch Guide (3rd Edition), with completed challenges and additional design improvements.
 
----
-
 ## ⚠️ Note on Code Differences
 
 Since the 3rd Edition of the book is dated, many APIs and classes used in the book have since been deprecated. This project includes:
@@ -16,8 +14,6 @@ Since the 3rd Edition of the book is dated, many APIs and classes used in the bo
 
 These changes may differ from the book’s exact instructions, but they reflect current best practices and ensure compatibility with Android Studio’s latest versions.
 
----
-
 ## 🧪 Features
 
 * 📝 Create, edit, and delete "Crime" entries with a title, date, and resolution status.
@@ -26,8 +22,6 @@ These changes may differ from the book’s exact instructions, but they reflect 
 * 🔄 UI updates that reflect orientation changes and lifecycle events.
 * ✅ Completed **all challenge problems** from Chapters 7–19.
 * 🎨 Custom UI enhancements for a better user experience.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -38,8 +32,6 @@ These changes may differ from the book’s exact instructions, but they reflect 
 * **Material Components**
 * **Fragments, ViewModels, and RecyclerView**
 * **Jetpack Components** like LiveData and Lifecycle observers
-
----
 
 ## 🚀 How to Run
 
@@ -63,8 +55,6 @@ These changes may differ from the book’s exact instructions, but they reflect 
 
    * Allow camera and contacts access when prompted, especially if testing features involving suspects or photos.
 
----
-
 ## 🎓 Learning Outcomes
 
 By completing this project, we gained hands-on experience with:
@@ -76,15 +66,11 @@ By completing this project, we gained hands-on experience with:
 * Permissions handling (runtime)
 * Debugging and refactoring outdated code
 
----
-
 ## 🖼️ Screenshots
 
 | Landscape Menu                     | Portrait Mode + New Crime        |
 | ---------------------------------- | -------------------------------- |
 | ![Landscape](Images/Landscape.jpg) | ![Portrait](Images/Portrait.png) |
-
----
 
 ## 📈 Future Improvements
 
@@ -93,8 +79,6 @@ By completing this project, we gained hands-on experience with:
 * Add **Room Database** instead of manual file-based persistence.
 * Implement **Unit Testing** for core logic and data handling.
 * Improve **accessibility** and **tablet support**.
-
----
 
 ## 🙌 Contribution
 
@@ -120,15 +104,11 @@ Want to improve this project? Contributions are welcome!
    ```
 5. Open a pull request and describe your changes.
 
----
-
 ## 📄 License
 
 This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
 
 > The GPL-3.0 license permits the free use, modification, and distribution of this software under specific conditions. Any derivative work must also be released under the same license.
-
----
 
 ## 👥 Credits
 
